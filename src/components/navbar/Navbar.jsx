@@ -1,4 +1,3 @@
-// style
 import './Navbar.css'
 
 function Navbar({usersLength}) {
